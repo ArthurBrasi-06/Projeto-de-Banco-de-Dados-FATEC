@@ -1,2 +1,25 @@
 # Projeto-de-Banco-de-Dados-FATEC
-Projeto desenvolvido para a disciplina de Banco de Dados da FATEC, incluindo modelagem (lógico e relacional), normalização, dicionário de dados, scripts SQL (DDL e DML) e um backend simples integrado ao banco.
+Projeto desenvolvido para a disciplina de Banco de Dados da FATEC, incluindo modelagem (lógico e relacional), normalização, dicionário de dados, scripts SQL (DDL e DML) e um backend simples integrado ao banco
+
+## Demonstração do Sistema-
+
+### Tela de Listagem de Usuários:
+<img width="1235" height="611" alt="image" src="https://github.com/user-attachments/assets/795d1ee4-53f9-4330-9f04-190b75350427" />
+
+
+### Cadastro de Novo Usuário:
+
+<img width="739" height="461" alt="image" src="https://github.com/user-attachments/assets/42211439-f19b-491e-924f-8f6fe68850a4" />
+
+
+
+### Atualização da Tabela Após Cadastro:
+
+<img width="1178" height="581" alt="image" src="https://github.com/user-attachments/assets/657dc54d-9379-48db-a76e-46cbd4f3957d" />
+
+
+### Dados Gravados no Banco (phpMyAdmin):
+
+<img width="670" height="314" alt="image" src="https://github.com/user-attachments/assets/d6780e7f-a7b8-4ba8-983c-e54048dbce11" />
+
+
